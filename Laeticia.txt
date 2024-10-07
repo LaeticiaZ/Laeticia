@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 My name is Laeticia
 
 hello
-=======
 Hello my name is Laeticia
 
 I like sleeping
->>>>>>> Practice
+hi
