@@ -2,4 +2,8 @@ Hello my name is Laeticia
 
 I like sleeping
 
+<<<<<<< HEAD
 random
+=======
+random2different
+>>>>>>> Practice
